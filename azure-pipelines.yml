@@ -18,6 +18,6 @@ steps:
 
 - script: |
     python addingnum.py
-  displayName: 'run the code'
+  displayName: 'my first build run the code'
 
 
