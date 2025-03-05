@@ -5,7 +5,7 @@
 trigger:
 - main
 
-pool: new selft_hosted
+pool:  agent1
 
 strategy:
   matrix:
