@@ -5,7 +5,7 @@
 trigger:
 - main
 
-pool:  agent1
+pool: agent1
 
 strategy:
   matrix:
