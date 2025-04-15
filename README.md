@@ -1,2 +1,2 @@
 # hello_test
-setting if git
+setting of git
